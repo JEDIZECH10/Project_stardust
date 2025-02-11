@@ -10,7 +10,11 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Instructions:
 Step 1: Click or tap the green "code" button.
+
 Step 2: Click or tap the "Download ZIP" button.
+
 Step 3: After the download is complete open your file application and copy the "source-main" file to your devices root directory.(meaning inside no folders.)
+
 Step 4: Open the "index.html" file and follow instructions on screen.
+
 Step 5:You're done!
